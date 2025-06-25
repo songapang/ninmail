@@ -1,0 +1,2 @@
+# ninmail
+automatic mailcreator
