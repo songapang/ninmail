@@ -1,0 +1,14 @@
+# config.toml
+CAPTCHA_SERVICES_SUPPORTED = ["capsolver", "nopecha"]
+DEFAULT_CAPTCHA_SERVICE = "capsolver"
+SMS_SERVICES_SUPPORTED = ["getsmscode", "smspool", "5sim"]
+DEFAULT_SMS_SERVICE = "smspool"
+SUPPORTED_BROWSERS = ['firefox', 'chrome', 'undetected-chrome']
+
+[[SUPPORTED_SOLVERS_BY_EMAIL]]
+email_service = "outlook"
+solvers = ["capsolver", "nopecha"]
+
+[[SUPPORTED_SOLVERS_BY_EMAIL]]
+email_service = "yahoo"
+solvers = ["capsolver", "nopecha"]

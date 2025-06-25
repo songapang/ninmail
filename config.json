@@ -1,0 +1,16 @@
+{
+    "account_info": {
+        "username": "qonep001",
+        "password": "12a34b5678c",
+        "first_name": "John",
+        "last_name": "Doe",
+        "month": "1",
+        "day": "1",
+        "year": "1990"
+    },
+    "sms_service": {
+        "name": "smspool",
+        "api_key": "your_api_key",
+        "other_config": "other_values"
+    }
+} 

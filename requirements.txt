@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+requests
+fake_useragent
+free-proxy
+toml
+Faker
+pytest
+pytest-mock
+pytest-cov
+undetected-chromedriver
